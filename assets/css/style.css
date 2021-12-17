@@ -30,7 +30,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #27ae60;
+  background: #2FE5CE;
   border-radius: 5rem;
 }
 
@@ -46,7 +46,7 @@ section {
 .heading span {
   font-family: 'Satisfy', cursive;
   font-size: 3rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .heading h3 {
@@ -77,14 +77,11 @@ section {
 }
 
 .header .logo {
-  font-size: 2.5rem;
+  font-family: 'Satisfy', cursive;
+  font-size: 3rem;
+  color: #2FE5CE;
   font-weight: bolder;
-  color: #130f40;
-}
-
-.header .logo i {
-  padding-right: .5rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .header .navbar a {
@@ -94,7 +91,7 @@ section {
 }
 
 .header .navbar a:hover {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .header .icons div {
@@ -112,7 +109,7 @@ section {
 
 .header .icons div:hover {
   color: #fff;
-  background: #27ae60;
+  background: #2FE5CE;
 }
 
 #menu-btn {
@@ -142,7 +139,7 @@ section {
   font-size: 1.7rem;
   cursor: pointer;
   color: #fff;
-  background: #27ae60;
+  background: #2FE5CE;
   border-radius: .5rem;
 }
 
@@ -195,7 +192,7 @@ section {
 }
 
 .search-form-container form label:hover {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .shopping-cart-container {
@@ -276,7 +273,7 @@ section {
 }
 
 .shopping-cart-container .products-container .box-container .box .fa-times:hover {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .shopping-cart-container .products-container .box-container .box img {
@@ -294,7 +291,7 @@ section {
 }
 
 .shopping-cart-container .products-container .box-container .box .content span.price {
-  color: #27ae60;
+  color: #2FE5CE;
   font-size: 1.7rem;
 }
 
@@ -325,7 +322,7 @@ section {
 }
 
 .shopping-cart-container .cart-total .box h3 span {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .login-form-container {
@@ -396,7 +393,7 @@ section {
 }
 
 .login-form-container form p a {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .login-form-container form p a:hover {
@@ -426,7 +423,7 @@ section {
 
 .home .content span {
   font-size: 2rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .home .content h3 {
@@ -481,7 +478,7 @@ section {
 }
 
 .category .box:hover {
-  background: #27ae60;
+  background: #2FE5CE;
 }
 
 .category .box:hover h3 {
@@ -533,7 +530,7 @@ section {
 .about .content span {
   font-family: 'Satisfy', cursive;
   font-size: 3rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .about .content .title {
@@ -608,7 +605,7 @@ section {
 }
 
 .popular .box-container .box .fa-heart:hover {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .popular .box-container .box .image {
@@ -667,7 +664,7 @@ section {
 .benner .row-benner .content span {
   font-family: 'Satisfy', cursive;
   font-size: 4rem;
-  color: #27ae60;
+  color: #2FE5CE;
   color: #130f40;
 }
 
@@ -780,7 +777,7 @@ section {
 
 .menu .box-container .box .content .price {
   font-size: 1.8rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .order .icons-container {
@@ -902,7 +899,7 @@ section {
 
 .blogs .box-container .box .image h3 i {
   padding-right: .5rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .blogs .box-container .box .image img {
@@ -928,11 +925,11 @@ section {
 }
 
 .blogs .box-container .box .content .tags a:hover {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .blogs .box-container .box .content .tags a i {
-  color: #27ae60;
+  color: #2FE5CE;
   padding-right: .5rem;
 }
 
@@ -987,7 +984,7 @@ section {
   padding: 0 2rem;
   font-size: 1.6rem;
   color: #fff;
-  background: #27ae60;
+  background: #2FE5CE;
   cursor: pointer;
 }
 
@@ -1023,7 +1020,7 @@ section {
 }
 
 .footer .box-container .box a:hover {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .footer .box-container .box a:hover i {
@@ -1032,7 +1029,7 @@ section {
 
 .footer .box-container .box a i {
   padding-right: .5rem;
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 .footer .bottom {
@@ -1052,7 +1049,7 @@ section {
   border-radius: .5rem;
   margin: 0 .3rem;
   color: #fff;
-  background: #27ae60;
+  background: #2FE5CE;
 }
 
 .footer .bottom .share a:hover {
@@ -1066,7 +1063,7 @@ section {
 }
 
 .footer .bottom .credit span {
-  color: #27ae60;
+  color: #2FE5CE;
 }
 
 @media (max-width: 768px) {
