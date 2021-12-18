@@ -37,6 +37,11 @@ $box-shadow: 0 1rem 1rem rgba(0,
     color: $green;
 }
 
+title {
+    @include font(2rem);
+    color: $green;
+}
+
 html {
     font-size: 62.5%;
     overflow-x: hidden;
